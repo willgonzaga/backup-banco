@@ -1,0 +1,4 @@
+{
+  "backup_dir": "./dumps",
+  "schedule": "0 21 * * *"
+}
